@@ -67,8 +67,8 @@ Basta digitar o nome da cidade no campo de busca e o sistema retorna as informaÃ
 *(adicione prints da tela inicial e do resultado da busca aqui â€” pode colocar em uma pasta `docs/images` e referenciar com `![Tela inicial](docs/images/tela-inicial.png)`)*
 
 
-![Tela Inicial](../prints/tela-inicial.png)
-![Resultado da Busca](../prints/resultado-busca.png)
+![Tela Inicial](./tela-inicial.png)
+![Resultado da Busca](./resultado-busca.png)
 
 
 ---
